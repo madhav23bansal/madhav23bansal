@@ -19,8 +19,4 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rber.tv/1a1b27/madhav23bansal" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rber.tv/madhav23bansal" />
-  <img src="https://ghchart.rber.tv/madhav23bansal" alt="GitHub Contribution Graph" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav23bansal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions&days=365" width="100%" alt="Contribution Graph"/>
