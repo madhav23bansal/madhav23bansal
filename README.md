@@ -1,6 +1,6 @@
 # Hey, I'm Madhav Bansal
 
-**Founding Engineer at [Cesto](https://github.com/cesto-co)** — Building DeFi infrastructure on Solana
+**Founding Engineer at [Cesto](https://cesto.co/)** — Building DeFi infrastructure on Solana
 
 [![Twitter](https://img.shields.io/badge/-@madhavb23-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/madhavb23)
 
