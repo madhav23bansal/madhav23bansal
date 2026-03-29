@@ -3,11 +3,11 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-- 🔭 &nbsp; Building [Cesto](https://cesto.co/), [Blockscratch](https://github.com/blockscratch), [Scratch](https://github.com/scratch).
+- 🔭 &nbsp; Building [Cesto](https://cesto.co/), Blockscratch, Scratch.
 - 🛠 &nbsp; Keen about Backend, DevOps, and the Decentralized Web.
 - 🌱 &nbsp; Previously at **GeekyAnts** — worked on gluestack-ui & NativeBase.
 - 🤝 &nbsp; Contributed to **facebook/react-native**, **supabase/supabase** & more.
-- 💬 &nbsp; Talk to me about DeFi, Solana, infrastructure, and open source.
+- 💬 &nbsp; Talk to me about solving problems, designing systems, and building things that scale.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -19,4 +19,8 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav23bansal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rber.tv/1a1b27/madhav23bansal" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rber.tv/madhav23bansal" />
+  <img src="https://ghchart.rber.tv/madhav23bansal" alt="GitHub Contribution Graph" width="100%" />
+</picture>
