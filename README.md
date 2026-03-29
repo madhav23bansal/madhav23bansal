@@ -19,4 +19,4 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav23bansal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions&days=365" width="100%" alt="Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhav23bansal&theme=tokyonight" width="100%" alt="Contribution Graph"/>
