@@ -1,48 +1,22 @@
-# Hey, I'm Madhav Bansal
+<h2>Hey there! I'm Madhav. 👋🏻</h2>
+<img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="500"/>
 
-**Founding Engineer at [Cesto](https://cesto.co/)** — Building DeFi infrastructure on Solana
+<h3>👨🏻‍💻 About Me</h3>
 
-[![Twitter](https://img.shields.io/badge/-@madhavb23-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/madhavb23)
+- 🔭 &nbsp; Building [Cesto](https://cesto.co/), [Blockscratch](https://github.com/blockscratch), [Scratch](https://github.com/scratch).
+- 🛠 &nbsp; Keen about Backend, DevOps, and the Decentralized Web.
+- 🌱 &nbsp; Previously at **GeekyAnts** — worked on gluestack-ui & NativeBase.
+- 🤝 &nbsp; Contributed to **facebook/react-native**, **supabase/supabase** & more.
+- 💬 &nbsp; Talk to me about DeFi, Solana, infrastructure, and open source.
 
----
+<h3>🛠 Tech Stack</h3>
 
-### About Me
+- 💻 &nbsp; TypeScript | JavaScript | Python | Go
+- 🌐 &nbsp; NestJS | Node.js | React | React Native | Next.js
+- 🛢 &nbsp; PostgreSQL | Prisma | Redis
+- ☁️ &nbsp; Docker | AWS | Terraform | GitHub Actions
+- ⛓ &nbsp; Solana | Anchor | Jupiter
 
-- Founding Engineer at **Cesto** — DeFi strategies, prediction markets, and portfolio infrastructure on **Solana**
-- Previously at **GeekyAnts** — built open-source projects like **gluestack-ui** and **NativeBase**
-- Contributed to **facebook/react-native**, **supabase/supabase**, and other large-scale OSS
-- Work across **backend, DevOps, infrastructure, and Web3**
-- Based in **Bangalore, India**
+<br>
 
----
-
-### Tech Stack
-
-`TypeScript` `JavaScript` `Python` `Go` `Dart` `Rust`
-
-`NestJS` `Node.js` `PostgreSQL` `Prisma` `Redis` `GraphQL`
-
-`Docker` `AWS` `Terraform` `GitHub Actions`
-
-`Solana` `Anchor` `Jupiter` `React` `React Native` `Next.js` `Flutter`
-
----
-
-### Open Source Contributions
-
-| Project | Description |
-|---------|-------------|
-| [**facebook/react-native**](https://github.com/facebook/react-native) | A framework for building native apps using React |
-| [**supabase/supabase**](https://github.com/supabase/supabase) | The open source Firebase alternative |
-| [**gluestack/gluestack-ui**](https://github.com/gluestack/gluestack-ui) | React & React Native components with Tailwind CSS |
-| [**GeekyAnts/flutter-starter**](https://github.com/GeekyAnts/flutter-starter) | Production-level Flutter starter kit |
-
----
-
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav23bansal&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
-
----
-
-<sub>*Ship fast, break nothing, decentralize everything.*</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav23bansal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
