@@ -9,14 +9,6 @@
 - 🤝 &nbsp; Contributed to **facebook/react-native**, **supabase/supabase** & more.
 - 💬 &nbsp; Talk to me about solving problems, designing systems, and building things that scale.
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; TypeScript | JavaScript | Python | Go
-- 🌐 &nbsp; NestJS | Node.js | React | React Native | Next.js
-- 🛢 &nbsp; PostgreSQL | Prisma | Redis
-- ☁️ &nbsp; Docker | AWS | Terraform | GitHub Actions
-- ⛓ &nbsp; Solana | Anchor | Jupiter
-
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhav23bansal&theme=tokyonight" width="100%" alt="Contribution Graph"/>
